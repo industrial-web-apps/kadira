@@ -84,7 +84,7 @@ function configurePackage(api) {
   api.use('lamhieu:meteorx@2.1.1', 'server');
   api.use('meteorhacks:zones@1.2.1', { weak: true });
 
-  api.use(['minimongo', 'livedata', 'mongo-livedata', 'ejson', 'ddp-common', 'email'], 'server');
+  api.use(['minimongo', 'livedata', 'mongo-livedata', 'ejson', 'ddp-common', 'email@2.0.0'], 'server');
   api.use(['localstorage'], 'client');
 
   // common before
