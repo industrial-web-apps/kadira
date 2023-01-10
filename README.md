@@ -1,14 +1,14 @@
 ## Kadira - Performance Monitoring for Meteor
-[![Build Status](https://travis-ci.org/afrokick/kadira.svg?branch=master)](https://travis-ci.org/afrokick/kadira)
+[![Build Status]](https://github.com/industrial-web-apps/kadira)
 
-This project is based on the [Kadira](https://github.com/lmachens/kadira) without jQuery dependency.
+This project is based on the [Kadira](https://github.com/vparpoil/kadira) to fix meteorx package and upgrading the email package.
 
 If you are looking for the kadira server, take a look at [meteor apm server](https://github.com/lmachens/meteor-apm-server).
 
 ### Why another one?
 1) remove legacy code
 2) ES6
-3) Meteor 1.8.1+
+3) Meteor 2.7.3 with Meteorx updated
 
 ### Getting started
 
