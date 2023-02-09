@@ -1,6 +1,6 @@
 Package.describe({
   summary: 'Performance Monitoring for Meteor',
-  version: '2.32.0',
+  version: '2.32.1',
   git: 'https://github.com/industrial-web-apps/kadira',
   name: 'industrialwebapps:kadira',
 });
