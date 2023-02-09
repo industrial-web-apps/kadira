@@ -14,7 +14,7 @@ If you are looking for the kadira server, take a look at [meteor apm server](htt
 
 1. Create an account in Meteor APM or Kadira
 2. From the UI, create an app. You'll get an `AppId` and an `AppSecret`.
-3. Run `meteor add afrokick:kadira` in your project
+3. Run `meteor add industrialwebapps:kadira` in your project
 4. Configure your Meteor app with the `AppId` and `AppSecret` by adding the following code snippet to a `server/kadira.js` file:
 
 ```js
