@@ -1,5 +1,8 @@
 # Changelog
 
+### v2.32.2
+updated the Meteor version to 2.3 from 1.8.1
+
 ### v2.32.1
 Updated the email and http Meteor Packages to support Meteor 2.6 and higher
 
