@@ -78,7 +78,7 @@ Package.onTest((api) => {
 });
 
 function configurePackage(api) {
-  api.versionsFrom('METEOR@1.8.1');
+  api.versionsFrom('METEOR@2.3.0');
 
   api.use(['ecmascript', 'http', 'random', 'underscore', 'retry'], ['client', 'server']);
   api.use('montiapm:meteorx@2.1.1', 'server');
