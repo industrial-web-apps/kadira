@@ -1,6 +1,9 @@
 # Changelog
 
 ### v2.32.2
+Fixed error being thrown from error reporting when getStackFromMessage stack message doesn't match the regex
+
+### v2.32.2
 updated the Meteor version to 2.3 from 1.8.1
 
 ### v2.32.1
